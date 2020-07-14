@@ -1,3 +1,4 @@
-# Olá, Mundo
+# Olá, Mundo !
  Meu primeiro repositorio Git.
-Essa linha eu add diretamanete no site
+Essa linha eu add diretamante no site.
+Que incrivel !!!!!
